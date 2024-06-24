@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #1b244a;
+}
+
+h3 {
+  color: #eeeeee;
+  font-family: Verdana;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 40px;
+  width: 149px;
+  height: 36px;
+  top: 68px;
+  left: 85px;
+  margin-bottom: 5px;
+}
+
+#home-score {
+  background: #0a0001;
+  font-size: 90px;
+  color: #f94f6d;
+  width: 120px;
+  margin: 20px;
+  border-radius: 5px;
+}
+
+#guest-score {
+  background: #0a0001;
+  font-size: 90px;
+  color: #f94f6d;
+  width: 120px;
+  margin: 20px;
+  border-radius: 5px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+
+button {
+  background: none;
+  width: 45px;
+  height: 45px;
+  top: 271px;
+  left: 82px;
+  border: 2px solid #9aabd8;
+
+  border-radius: 5px;
+  color: #9aabd8;
+  margin: 2px;
+}
